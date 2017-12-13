@@ -103,25 +103,25 @@ Guías de estilo (paletas de color, fonts)
   - Deseabilidad: Si
   - Experiencia: Al navegar por la pagina nos llevamos una buena experiencia de la web
 
-![Laboratoria Website](./images/diapositiva2.jpg)
+![Laboratoria Website](./images/Diapositiva2.jpg)
 
-![Laboratoria Website](./images/diapositiva3.jpg)
+![Laboratoria Website](./images/Diapositiva3.jpg)
 
-![Laboratoria Website](./images/diapositiva4.jpg)
+![Laboratoria Website](./images/Diapositiva4.jpg)
 
-![Laboratoria Website](./images/diapositiva5.jpg)
+![Laboratoria Website](./images/Diapositiva5.jpg)
 
-![Laboratoria Website](./images/diapositiva6.jpg)
+![Laboratoria Website](./images/Diapositiva6.jpg)
 
-![Laboratoria Website](./images/diapositiva7.jpg)
+![Laboratoria Website](./images/Diapositiva7.jpg)
 
-![Laboratoria Website](./images/diapositiva8.jpg)
+![Laboratoria Website](./images/Diapositiva8.jpg)
 
-![Laboratoria Website](./images/diapositiva9.jpg)
+![Laboratoria Website](./images/Diapositiva9.jpg)
 
-![Laboratoria Website](./images/diapositiva10.jpg)
+![Laboratoria Website](./images/Diapositiva10.jpg)
 
-![Laboratoria Website](./images/diapositiva11.jpg)
+![Laboratoria Website](./images/Diapositiva11.jpg)
 
 
   > Nota: Se incluye una presentacion en PowerPoint donde se puede entender el flujo de la pàgina.
