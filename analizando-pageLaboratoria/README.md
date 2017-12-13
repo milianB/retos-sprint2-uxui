@@ -10,7 +10,7 @@ Este reto consiste en identificar los diferentes elementos que componen un websi
 
 El reto de esta unidad consiste en identificar las partes que componen UX y el UI del website de Laboratoria.
 
-![Laboratoria Website](http://www.laboratoria.la)
+
 
 ## Flujo de trabajo
 
@@ -28,9 +28,11 @@ El reto de esta unidad consiste en identificar las partes que componen UX y el U
 
 
 ## Consideraciones
+
 ```
 * UX (User Designer):
 ```
+
 *  En español se traduce como `Experiencia de Usuario`
 
 *  UX es aquello que percibe una persona al interactuar con un producto o servicio
@@ -49,9 +51,11 @@ El reto de esta unidad consiste en identificar las partes que componen UX y el U
   - `Analizan datos` (KPI´s métricas)
   - `Arquitectan la información` (organización de información)
 
-  ```
-  * UI (User Interface):
-  ```
+
+```
+* UI (User Interface):
+```
+
 
 * Traducido al español como `Usuario del Interfaz`
 
@@ -103,25 +107,26 @@ Guías de estilo (paletas de color, fonts)
   - Deseabilidad: Si
   - Experiencia: Al navegar por la pagina nos llevamos una buena experiencia de la web
 
-![Laboratoria Website](./images/Diapositiva2.jpg)
 
-![Laboratoria Website](./images/Diapositiva3.jpg)
+![Website Laboratoria](./images/Diapositiva2.JPG)
 
-![Laboratoria Website](./images/Diapositiva4.jpg)
+![Website Laboratoria](./images/Diapositiva3.JPG)
 
-![Laboratoria Website](./images/Diapositiva5.jpg)
+![Website Laboratoria](./images/Diapositiva4.JPG)
 
-![Laboratoria Website](./images/Diapositiva6.jpg)
+![Website Laboratoria](./images/Diapositiva5.JPG)
 
-![Laboratoria Website](./images/Diapositiva7.jpg)
+![Website Laboratoria](./images/Diapositiva6.JPG)
 
-![Laboratoria Website](./images/Diapositiva8.jpg)
+![Website Laboratoria](./images/Diapositiva7.JPG)
 
-![Laboratoria Website](./images/Diapositiva9.jpg)
+![Website Laboratoria](./images/Diapositiva8.JPG)
 
-![Laboratoria Website](./images/Diapositiva10.jpg)
+![Website Laboratoria](./images/Diapositiva9.JPG)
 
-![Laboratoria Website](./images/Diapositiva11.jpg)
+![Website Laboratoria](./images/Diapositiva10.JPG)
+
+![Website Laboratoria](./images/Diapositiva11.JPG)
 
 
   > Nota: Se incluye una presentacion en PowerPoint donde se puede entender el flujo de la pàgina.
