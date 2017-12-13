@@ -24,6 +24,9 @@ El reto de esta unidad consiste en identificar las partes que componen UX y el U
   - Con un `rectángulo` en color morado marcaremos los elementos de _User Experience_
 
 
+  ![Laboratoria Website](./images/diapositiva1.jpg)
+
+
 ## Consideraciones
 ```
 * UX (User Designer):
@@ -64,8 +67,61 @@ El reto de esta unidad consiste en identificar las partes que componen UX y el U
     - Diseño visual (iconos, imágenes)
 Guías de estilo (paletas de color, fonts)
 
+***
 
-## A tener en cuenta
+## Analizando Elementos UI
+
+- La disposicion de los elementos esta centrada a lo largo de toda la pagina web.
+
+- Botones con fondo naranja o blanco y tipografìa en color negro.
+
+- Los iconos tienen hover donde sus dimensiones
 
 
-  > Nota:
+## Analizando Elementos UX
+
+`Modelo de negocio:`
+
+- Obtener postulantes
+
+- Conseguir empresas que contraten egresadas
+
+- Contratar capacitaciones para tu empresas
+
+- Bolsa de trabajo
+
+- Fotografias que reflejan los principios, misiòn y valores de Laboratoria
+
+`Emociones:`
+
+* Transmite emociones como: Felicidad, confianza, motivacion
+
+* Desicion de que van a comunicar nuesras imagenes y el texto
+
+  - Usabilidad: Se cumplen los procesos
+  - Utilidad: Si
+  - Deseabilidad: Si
+  - Experiencia: Al navegar por la pagina nos llevamos una buena experiencia de la web
+
+![Laboratoria Website](./images/diapositiva2.jpg)
+
+![Laboratoria Website](./images/diapositiva3.jpg)
+
+![Laboratoria Website](./images/diapositiva4.jpg)
+
+![Laboratoria Website](./images/diapositiva5.jpg)
+
+![Laboratoria Website](./images/diapositiva6.jpg)
+
+![Laboratoria Website](./images/diapositiva7.jpg)
+
+![Laboratoria Website](./images/diapositiva8.jpg)
+
+![Laboratoria Website](./images/diapositiva9.jpg)
+
+![Laboratoria Website](./images/diapositiva10.jpg)
+
+![Laboratoria Website](./images/diapositiva11.jpg)
+
+
+  > Nota: Se incluye una presentacion en PowerPoint donde se puede entender el flujo de la pàgina.
